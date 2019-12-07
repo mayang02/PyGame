@@ -273,3 +273,4 @@ while player.main==True:
 
 pygame.quit()
 ```
+## Tutorial Penggunaan Git
