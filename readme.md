@@ -74,7 +74,8 @@ b.Platform dan Coin
 
 ## Listing Code
 
-```python import pygame, sys, random
+```python 
+import pygame, sys, random
 pygame.init()
 
 X = 900
