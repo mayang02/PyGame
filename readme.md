@@ -275,4 +275,4 @@ pygame.quit()
 ```
 ## Tutorial Penggunaan Git
 1. Instal Git. Anda bisa download di https://gitforwindows.org/
-2. setelah download, buka file tersebut untuk menjalankan proses instalasi. ikuti semua instruksi, klik Next dan Finish hingga semua proses instalasi selesai
+2. Setelah download, buka file tersebut untuk menjalankan proses instalasi. ikuti semua instruksi, klik Next dan Finish hingga semua proses instalasi selesai. 
