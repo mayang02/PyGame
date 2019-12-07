@@ -74,7 +74,7 @@ b.Platform dan Coin
 
 ## Listing Code
 
-import pygame, sys, random
+```python import pygame, sys, random
 pygame.init()
 
 X = 900
@@ -271,4 +271,4 @@ while player.main==True:
     pygame.display.flip()
 
 pygame.quit()
-
+```
