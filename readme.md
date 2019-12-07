@@ -72,7 +72,8 @@ b.Platform dan Coin
 	</tbody>
 </table>
 
-##Listing Code
+## Listing Code
+
 import pygame, sys, random
 pygame.init()
 
